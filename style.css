@@ -1,4 +1,6 @@
-
+@font-face {
+    src: url(fonts/apparel-black.otf);
+}
 
 html {
     background-color: #358178;
