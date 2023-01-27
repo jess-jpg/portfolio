@@ -18,13 +18,25 @@
     font-weight: bolder;
 }
 
+@font-face {
+    font-family: Fimlen;
+    src: url(fonts/fimlen.otf);
+}
+
 html {
     background-color: #358178;
-    font-family: Apparel, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
-h1, h2, p {
+h1 {
+    font-family: Fimlen, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+h2, p {
+    font-family: Apparel, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
 }
