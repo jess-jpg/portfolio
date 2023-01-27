@@ -1,10 +1,11 @@
 @font-face {
-    src: url(fonts/apparel-black.otf);
+    font-family: apparel;
+    src: url(fonts/apparel-regular.otf);
 }
 
 html {
     background-color: #358178;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: apparel, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
