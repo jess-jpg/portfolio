@@ -1,31 +1,10 @@
-/*
-@font-face {
-    font-family: Apparel;
-    src: url(fonts/apparel-regular.otf);
-}
-@font-face {
-    font-family: Apparel;
-    src: url(fonts/apparel-regularit.otf);
-    font-style: italic;
-}
-@font-face {
-    font-family: Apparel;
-    src: url(fonts/apparel-black.otf);
-    font-weight: bolder;
-}
-@font-face {
-    font-family: Apparel;
-    src: url(fonts/apparel-blackit.otf);
-    font-weight: bolder;
-}
-*/
 html {
-    background-color: #358178;
-    color: white;
+  background-color: #358178;
+  color: white;
 }
 
 h1, h2, p {
-    display: flex;
-    justify-content: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
