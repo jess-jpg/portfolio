@@ -20,11 +20,11 @@
 
 html {
     background-color: #358178;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 
 h1, h2, p {
     display: flex;
     justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
